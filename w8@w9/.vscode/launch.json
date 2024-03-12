@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q7",
+            "request": "launch",
+            "mainClass": "Q7",
+            "projectName": "w8_2b76841a"
+        },
+        {
+            "type": "java",
+            "name": "Launch bu",
+            "request": "launch",
+            "mainClass": "bu",
+            "projectName": "w8_2b76841a"
+        },
+        {
+            "type": "java",
+            "name": "Launch chk",
+            "request": "launch",
+            "mainClass": "chk",
+            "projectName": "w8_2b76841a"
+        },
+        {
+            "type": "java",
+            "name": "Launch chk1",
+            "request": "launch",
+            "mainClass": "chk1",
+            "projectName": "w8_2b76841a"
+        },
+        {
+            "type": "java",
+            "name": "Launch cho",
+            "request": "launch",
+            "mainClass": "cho",
+            "projectName": "w8_2b76841a"
+        },
+        {
+            "type": "java",
+            "name": "Launch frame",
+            "request": "launch",
+            "mainClass": "frame",
+            "projectName": "w8_2b76841a"
+        },
+        {
+            "type": "java",
+            "name": "Launch panel",
+            "request": "launch",
+            "mainClass": "panel",
+            "projectName": "w8_2b76841a"
+        },
+        {
+            "type": "java",
+            "name": "Launch text",
+            "request": "launch",
+            "mainClass": "text",
+            "projectName": "w8_2b76841a"
+        }
+    ]
+}

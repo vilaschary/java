@@ -1,0 +1,7 @@
+public class Main{
+public static void main (String []args) {
+        Thread thread%3Thread.currentThread ();
+        System.out.print (thread.activeCount ());
+       thread.run ();
+        System.out.print (thread.activeCount ());
+       }

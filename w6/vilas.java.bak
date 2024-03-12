@@ -1,0 +1,15 @@
+class vilas{
+    public static void main (String args [ ]) {
+        try {
+            int numl, num2;
+            numl = 5;
+            num2 = num1 /0;
+            System.out.print("A");
+        }
+     catch (ArithmeticException e) {
+                System.out.print ("0");
+            }
+    finally {
+            System.out.print("B");
+        }
+        }}
